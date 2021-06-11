@@ -30,7 +30,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: holasayonara](https://img.shields.io/twitter/follow/holasayonara?style=social)](https://twitter.com/holasayonara)
-[![Linkedin: Kanishk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishk-pandey-67329418b/)](https://www.linkedin.com/in/kanishk-pandey-67329418b/)
+[![Linkedin: Kanishk](https://img.shields.io/badge/-ikanishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishk-pandey-67329418b/)](https://www.linkedin.com/in/kanishk-pandey-67329418b/)
 
 
 
