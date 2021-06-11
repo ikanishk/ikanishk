@@ -1,6 +1,6 @@
 ## Hola, I'm [Kumar Kanishk Pandey!](https://www.linkedin.com/in/kanishk-pandey-67329418b/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikanishk&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://twitter.com/holasayonara">
   <img align="left" alt="Kanishk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
