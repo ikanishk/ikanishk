@@ -41,10 +41,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ## 📊 My Github Stats
-<a href="https://github.com/ikanishk">
-  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikanishk)](https://github.com/ikanishk/github-readme-stats)
-" />
-</a>
+
 <a href="https://github.com/ikanishk">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikanishk&show_icons=true&theme=light&line_height=27" alt="Kanishk's's github stats"/>
 </a>
