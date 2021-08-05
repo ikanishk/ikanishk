@@ -40,6 +40,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+## 📊 My Github Stats
 <a href="https://github.com/ikanishk">
   <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikanishk)](https://github.com/ikanishk/github-readme-stats)
 " />
@@ -47,6 +48,23 @@
 <a href="https://github.com/ikanishk">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikanishk&show_icons=true&theme=light&line_height=27" alt="Kanishk's's github stats"/>
 </a>
+
+
+
+  <br/>
+    <a href="https://github.com/ikanishk/github-readme-stats"><img alt="ikanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikanishk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ikanishk/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanishk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/ikanishk/github-readme-activity-graph"><img alt="ikanishk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ikanishk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 
 <div align="center">
